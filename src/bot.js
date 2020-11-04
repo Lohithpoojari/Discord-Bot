@@ -9,6 +9,7 @@ client.on("ready", () => {
 });
 
 client.on("message", async (message) => {
+  console.log(message.content);
   if (message.author.bot) return;
   //console.log(`[${message.author.tag}]: ${message.content} `);
 

@@ -6,7 +6,8 @@
 
 ## Module used
 
-- [discord.js ](https://discord.js.org/)
+- [discord.js ]
+  For documentation please refer this link (https://discord.js.org/)
 
 ## Development Setup
 
